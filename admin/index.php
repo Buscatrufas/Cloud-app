@@ -51,8 +51,7 @@ color: #339; }
 	color: #669;    
 	border-top: 1px solid transparent;
 }
-
-</style>
+hola</style>
   <div id="container" class="clear" >
     <!-- Slider -->
         <?php

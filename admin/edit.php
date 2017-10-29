@@ -83,9 +83,6 @@ if (isset($_SESSION['login_user']) == null || $_SESSION['status_account']!='A') 
         <!-- article 1 -->
       </section>
     </div>
-   <?php
-    include($_SERVER ['DOCUMENT_ROOT'] . "/base/rss.php");
-   ?>
        <!-- / content body -->
   </div>
 </div>
